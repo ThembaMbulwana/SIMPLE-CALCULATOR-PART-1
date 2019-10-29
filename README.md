@@ -5,4 +5,6 @@ Building a simple calculator to do some basic arithmetic (add and multiply) for 
 Using a TDD approach to complete this project.
 
 Test ran so far:
-![](tests/Test Report.PNG)
+<img src="tests/Test Report.PNG"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
