@@ -1,6 +1,4 @@
-from simple_calculator import *
-
-
+from simple_calculator.simple_calculator import *
 
 def test_add():
 	assert add(0,0) == 0
